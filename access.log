@@ -1,1 +1,0 @@
-::1 - - [15/Sep/2020:19:37:11 +0000] "POST /get_messages HTTP/1.1" 200 - "http://localhost/chat/php/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
